@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 2745440852187563074}
   - component: {fileID: 2114049085443851059}
   m_Layer: 11
-  m_Name: Fire Projectile
+  m_Name: Projectile Fire
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -93,7 +93,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 2
+  m_SortingOrder: 10
   m_Sprite: {fileID: 21300000, guid: 5112e2fa7d36dc54ebc0579ce81a8ee8, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 1
@@ -117,6 +117,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe62619dfcdd2b445b6bf17dd178e8d9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  currentSpeed: 2
 --- !u!61 &-6341366149768098913
 BoxCollider2D:
   m_ObjectHideFlags: 0

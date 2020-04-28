@@ -216,9 +216,9 @@ GameObject:
   - component: {fileID: 8837887757776368283}
   - component: {fileID: 6866498704083447840}
   - component: {fileID: 153753771368469853}
+  - component: {fileID: 5175463718698625391}
   - component: {fileID: 5726115566483777480}
   - component: {fileID: 6843620305745405701}
-  - component: {fileID: 5175463718698625391}
   m_Layer: 9
   m_Name: Defender Pumpkin
   m_TagString: Untagged
@@ -287,8 +287,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ab3248ead6f4644fa1c9a8aa8bf744d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  goldCost: 50
-  health: 100
+  goldCost: 25
+  health: 50
+  dieAnimationDuration: 0.6
+  dieAnimation: 0
+--- !u!114 &5175463718698625391
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8837887757776368282}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfe03c295f9e74d4da34750f53aae03d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damagePoints: 50
 --- !u!50 &5726115566483777480
 Rigidbody2D:
   serializedVersion: 4
@@ -336,16 +351,3 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &5175463718698625391
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8837887757776368282}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dfe03c295f9e74d4da34750f53aae03d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  damagePoints: 100

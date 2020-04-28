@@ -7,6 +7,8 @@ public class Defender : MonoBehaviour
 {
     [SerializeField] int goldCost = 50;
     [SerializeField] float health = 100f;
+    [SerializeField] float dieAnimationDuration = 0.6f;
+    [SerializeField] bool dieAnimation = false;
 
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -31,6 +33,14 @@ public class Defender : MonoBehaviour
     }
     private void Die()
     {
-        Destroy(gameObject);
+        if (dieAnimation)
+        {
+            gameObject.GetComponent<Animator>().Play("Die");
+            Destroy(gameObject, dieAnimationDuration);
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
     }
 }

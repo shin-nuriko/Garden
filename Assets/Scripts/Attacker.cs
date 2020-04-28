@@ -24,9 +24,7 @@ public class Attacker : MonoBehaviour
         Damager damageDealer = other.gameObject.GetComponent<Damager>();
         if (!damageDealer) { return; }
         health -= damageDealer.GetDamage();
-        if (health <= 0 ) { Die(); }
-        damageDealer.Hit();
-
+        if (health <= 0 ) { Die(); }      
         Debug.Log("Attacker Health: " + health);
     }
 

@@ -9,27 +9,26 @@ public class Defender : MonoBehaviour
     [SerializeField] float health = 100f;
     [SerializeField] float dieAnimationDuration = 0.6f;
     [SerializeField] bool dieAnimation = false;
-
     private void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log("Defender Collision detected");
         Damager damageDealer = other.gameObject.GetComponent<Damager>();
         if (!damageDealer) { return; }
         health -= damageDealer.GetDamage();
         //damageDealer.Hit();
         if (health <= 0 ) { Die();  }
-
-        Debug.Log("Defender Health: " + health);
     }
-
     public void AddGold(int amount)
     {
         FindObjectOfType<GoldDisplay>().AddGolds(amount);
     }
-
     public int GetGoldCost()
     {
         return goldCost;
+    }
+    public float TakeDamage(float damage)
+    {
+        health -= damage;
+        return health;
     }
     private void Die()
     {

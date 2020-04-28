@@ -1,0 +1,776 @@
+fileFormatVersion: 2
+guid: a68f200449ba8064081bfc070c50f268
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6671033078307956087
+    second: fox_walk_0
+  - first:
+      213: -1815768720336585311
+    second: fox_walk_1
+  - first:
+      213: 533844743297374663
+    second: fox_walk_2
+  - first:
+      213: -4337058123868923179
+    second: fox_walk_3
+  - first:
+      213: 3572729194923482978
+    second: fox_walk_4
+  - first:
+      213: -3899070720159901285
+    second: fox_walk_5
+  - first:
+      213: -8453347601184659472
+    second: fox_walk_6
+  - first:
+      213: 3466821875536627997
+    second: fox_walk_7
+  - first:
+      213: -4080485251333864112
+    second: fox_walk_8
+  - first:
+      213: -1767595725432634024
+    second: fox_walk_9
+  - first:
+      213: -5929835698385261177
+    second: fox_walk_10
+  - first:
+      213: -4826079138214482964
+    second: fox_walk_11
+  - first:
+      213: 5793715632496409223
+    second: fox_walk_12
+  - first:
+      213: 5775907224494831201
+    second: fox_walk_13
+  - first:
+      213: 2858847422865654498
+    second: fox_walk_14
+  - first:
+      213: -7849982230116730447
+    second: fox_walk_15
+  - first:
+      213: 5482342390985385566
+    second: fox_walk_16
+  - first:
+      213: 1858990162659239733
+    second: fox_walk_17
+  - first:
+      213: -2935334730500273401
+    second: fox_walk_18
+  - first:
+      213: 6317375553627078870
+    second: fox_walk_19
+  - first:
+      213: -1662365139897895476
+    second: fox_walk_20
+  - first:
+      213: 4049637425208589426
+    second: fox_walk_21
+  - first:
+      213: 2864290339779170005
+    second: fox_walk_22
+  - first:
+      213: 1174702215932075352
+    second: fox_walk_23
+  - first:
+      213: -5159866316545498644
+    second: fox_walk_0
+  - first:
+      213: -8835314853054066329
+    second: fox_walk_1
+  - first:
+      213: -4469179040872946077
+    second: fox_walk_2
+  - first:
+      213: -1523331284134736551
+    second: fox_walk_3
+  - first:
+      213: 1683689257754749313
+    second: fox_walk_4
+  - first:
+      213: 2244517218813732215
+    second: fox_walk_5
+  - first:
+      213: -1331496455131892487
+    second: fox_walk_6
+  - first:
+      213: 5661631733308115978
+    second: fox_walk_7
+  - first:
+      213: -397828848642594223
+    second: fox_walk_8
+  - first:
+      213: -1737179843231337984
+    second: fox_walk_9
+  - first:
+      213: 5265215400374128769
+    second: fox_walk_10
+  - first:
+      213: -7535503106880128453
+    second: fox_walk_11
+  - first:
+      213: -4515649730848878944
+    second: fox_walk_12
+  - first:
+      213: -5878089236888599351
+    second: fox_walk_13
+  - first:
+      213: 1714906473486929454
+    second: fox_walk_14
+  - first:
+      213: 4882309273016260867
+    second: fox_walk_15
+  - first:
+      213: 4460398772204638469
+    second: fox_walk_16
+  - first:
+      213: 5722320838078252659
+    second: fox_walk_17
+  - first:
+      213: -6538853392834719523
+    second: fox_walk_18
+  - first:
+      213: 6598721919896587161
+    second: fox_walk_19
+  - first:
+      213: 3551856768596238752
+    second: fox_walk_20
+  - first:
+      213: -5338634749722872385
+    second: fox_walk_21
+  - first:
+      213: 3239044843130061435
+    second: fox_walk_22
+  - first:
+      213: -7534864187256684037
+    second: fox_walk_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fox_walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce16dc95ce87468b0800000000000000
+      internalID: -5159866316545498644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_walk_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 416
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761daf0e3f7a26580800000000000000
+      internalID: -8835314853054066329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_walk_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 416
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366a52f47594af1c0800000000000000
+      internalID: -4469179040872946077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_walk_3
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 416
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dc8ed944a0cdae0800000000000000
+      internalID: -1523331284134736551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_walk_4
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 416
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189ec98957aad5710800000000000000
+      internalID: 1683689257754749313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_walk_5
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 416
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775e3afb480262f10800000000000000
+      internalID: 2244517218813732215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_walk_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4fb245703958de0800000000000000
+      internalID: -1331496455131892487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_walk_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 278
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cc8e89018229e40800000000000000
+      internalID: 5661631733308115978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_walk_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 278
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a614b15c0aa7af0800000000000000
+      internalID: -397828848642594223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_walk_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 278
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0023a35f22c44e7e0800000000000000
+      internalID: -1737179843231337984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_walk_10
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 278
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1805735a28dc11940800000000000000
+      internalID: 5265215400374128769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_walk_11
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 278
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3abe8e59d38c6790800000000000000
+      internalID: -7535503106880128453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_walk_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae0aa6ae703551c0800000000000000
+      internalID: -4515649730848878944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_walk_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 140
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c445358bf4dc6ea0800000000000000
+      internalID: -5878089236888599351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_walk_14
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 140
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ec4370a529cc710800000000000000
+      internalID: 1714906473486929454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_walk_15
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 140
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309dabd8a6271c340800000000000000
+      internalID: 4882309273016260867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_walk_16
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 140
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50198d51d0586ed30800000000000000
+      internalID: 4460398772204638469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_walk_17
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 140
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376487ceb74c96f40800000000000000
+      internalID: 5722320838078252659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_walk_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd09ab9cb735145a0800000000000000
+      internalID: -6538853392834719523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_walk_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b0507ef9e539b50800000000000000
+      internalID: 6598721919896587161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_walk_20
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1ee3999eaba4130800000000000000
+      internalID: 3551856768596238752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_walk_21
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5363dfafb59e5b0800000000000000
+      internalID: -5338634749722872385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_walk_22
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 2
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b720456af1663fc20800000000000000
+      internalID: 3239044843130061435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_walk_23
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 2
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1c0cf61f8ce6790800000000000000
+      internalID: -7534864187256684037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

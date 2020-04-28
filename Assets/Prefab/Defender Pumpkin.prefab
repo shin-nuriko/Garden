@@ -287,7 +287,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ab3248ead6f4644fa1c9a8aa8bf744d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  goldCost: 25
+  goldCost: 35
   health: 50
   dieAnimationDuration: 0.6
   dieAnimation: 0

@@ -15,6 +15,6 @@ public class Projectile : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D other)
     {
-        // trigger some sort of projectile explosion animation here
+        Destroy(gameObject);
     }
 }

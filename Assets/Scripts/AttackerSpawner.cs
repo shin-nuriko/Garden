@@ -8,11 +8,15 @@ public class AttackerSpawner : MonoBehaviour
 {
     [SerializeField] float minSpawnDelay = 1f;
     [SerializeField] float maxSpawnDelay = 5f;
-    [SerializeField] Attacker attackerPrefab;
+    [SerializeField] List<Attacker> attackersPrefab;
 
     bool spawn = true;
+    int minIndex = 0;
+    int maxIndex;
+    Attacker attackerPrefab;
     void Start()
-    {
+    {        
+        maxIndex = attackersPrefab.Count;
         StartCoroutine(StartSpawning());
     }
      IEnumerator StartSpawning()
@@ -25,7 +29,8 @@ public class AttackerSpawner : MonoBehaviour
     }
 
     private void SpawnAttacker()
-    {        
+    {
+        attackerPrefab = attackersPrefab[UnityEngine.Random.Range(minIndex, maxIndex)];
         Attacker newAttacker = Instantiate(
             attackerPrefab,
             transform.position,

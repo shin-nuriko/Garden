@@ -12,10 +12,10 @@ GameObject:
   - component: {fileID: 7666081470524663960}
   - component: {fileID: 7666081470524663961}
   - component: {fileID: 1766267074002984072}
-  - component: {fileID: 6886387032281984096}
-  - component: {fileID: 2868309889940771281}
   - component: {fileID: -1695545900040824423}
   - component: {fileID: 5326039429979867188}
+  - component: {fileID: 6886387032281984096}
+  - component: {fileID: 2868309889940771281}
   m_Layer: 8
   m_Name: Attacker Dino
   m_TagString: Untagged
@@ -119,6 +119,31 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 100
+--- !u!114 &-1695545900040824423
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7666081470524663962}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfe03c295f9e74d4da34750f53aae03d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damagePoints: 100
+--- !u!114 &5326039429979867188
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7666081470524663962}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d4bfa99213c75045b87ca1eee66cfaf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
   dieAnimationDuration: 0.6
   attackAnimationDuration: 0.6
 --- !u!50 &6886387032281984096
@@ -246,28 +271,3 @@ PolygonCollider2D:
       - {x: -0.65, y: -1.87}
       - {x: -0.65999997, y: -1.8199999}
       - {x: -0.48999998, y: -1.88}
---- !u!114 &-1695545900040824423
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7666081470524663962}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dfe03c295f9e74d4da34750f53aae03d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  damagePoints: 100
---- !u!114 &5326039429979867188
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7666081470524663962}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7d4bfa99213c75045b87ca1eee66cfaf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 

@@ -1,13 +1,12 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.InteropServices.WindowsRuntime;
 using UnityEngine;
 
 public class Attacker : MonoBehaviour
 {
     [SerializeField] float health = 100f;
-    [SerializeField] float dieAnimationDuration = 0.6f;
-    [SerializeField] float attackAnimationDuration = 0.6f;
     float currentSpeed = 1f;
 
     bool isAttacking = false;
@@ -24,35 +23,20 @@ public class Attacker : MonoBehaviour
         currentSpeed = speed;
     }
 
-    private void OnTriggerEnter2D(Collider2D other)
-    {
-        Damager damageDealer = other.gameObject.GetComponent<Damager>();
-        if (!damageDealer) { return; }        
-        health -= damageDealer.GetDamage();
-        if (health <= 0)
-        {
-            Die();
-        }
-        else
-        {
-            StartCoroutine(Attack());
-        }
-    }
-
-    private IEnumerator Attack()
+    public void SetAttackOn()
     {
         isAttacking = true;
-        gameObject.GetComponent<Animator>().Play("Attack");        
-        transform.Translate(Vector2.left * 0.1f);
-        yield return new WaitForSeconds(attackAnimationDuration);
-        gameObject.GetComponent<Animator>().Play("Walk");
+    }
+
+    public void SetAttackOff()
+    {
         isAttacking = false;
     }
-    private void Die()
+
+    public float TakeDamage(float damage)
     {
-        currentSpeed = 0;        
-        gameObject.GetComponent<Animator>().Play("Die");
-        Destroy(gameObject, dieAnimationDuration);
+        health -= damage;
+        return health;
     }
 
 }

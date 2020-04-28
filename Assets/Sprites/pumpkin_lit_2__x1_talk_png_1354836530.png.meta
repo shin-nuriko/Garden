@@ -1,0 +1,2471 @@
+fileFormatVersion: 2
+guid: 6e031a46050cd37408e8cdd2db0de6ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7378773404452847089
+    second: pumpkin_lit_2__x1_talk_png_1354836530_0
+  - first:
+      213: 5976113267927978872
+    second: pumpkin_lit_2__x1_talk_png_1354836530_1
+  - first:
+      213: -7937675907519322349
+    second: pumpkin_lit_2__x1_talk_png_1354836530_2
+  - first:
+      213: -494036328919658505
+    second: pumpkin_lit_2__x1_talk_png_1354836530_3
+  - first:
+      213: 7414075494788537974
+    second: pumpkin_lit_2__x1_talk_png_1354836530_4
+  - first:
+      213: 5641135108946056995
+    second: pumpkin_lit_2__x1_talk_png_1354836530_5
+  - first:
+      213: 4657597408809245490
+    second: pumpkin_lit_2__x1_talk_png_1354836530_6
+  - first:
+      213: -1375640284927937675
+    second: pumpkin_lit_2__x1_talk_png_1354836530_7
+  - first:
+      213: 5680567329691435568
+    second: pumpkin_lit_2__x1_talk_png_1354836530_8
+  - first:
+      213: -867016582796411635
+    second: pumpkin_lit_2__x1_talk_png_1354836530_9
+  - first:
+      213: -5925955539229518433
+    second: pumpkin_lit_2__x1_talk_png_1354836530_10
+  - first:
+      213: 7805710837761773030
+    second: pumpkin_lit_2__x1_talk_png_1354836530_11
+  - first:
+      213: -8549350552579337245
+    second: pumpkin_lit_2__x1_talk_png_1354836530_12
+  - first:
+      213: -2406368456623569226
+    second: pumpkin_lit_2__x1_talk_png_1354836530_13
+  - first:
+      213: 7014188978248282241
+    second: pumpkin_lit_2__x1_talk_png_1354836530_14
+  - first:
+      213: -3663387685981427107
+    second: pumpkin_lit_2__x1_talk_png_1354836530_15
+  - first:
+      213: -2536656529252066566
+    second: pumpkin_lit_2__x1_talk_png_1354836530_16
+  - first:
+      213: 7662488474430033666
+    second: pumpkin_lit_2__x1_talk_png_1354836530_17
+  - first:
+      213: 8969650838476122982
+    second: pumpkin_lit_2__x1_talk_png_1354836530_18
+  - first:
+      213: -4318612805470775480
+    second: pumpkin_lit_2__x1_talk_png_1354836530_19
+  - first:
+      213: -3904776114037485371
+    second: pumpkin_lit_2__x1_talk_png_1354836530_20
+  - first:
+      213: 4657422767130623749
+    second: pumpkin_lit_2__x1_talk_png_1354836530_21
+  - first:
+      213: -967664067792111555
+    second: pumpkin_lit_2__x1_talk_png_1354836530_22
+  - first:
+      213: -4825250784861267193
+    second: pumpkin_lit_2__x1_talk_png_1354836530_23
+  - first:
+      213: -2366546794312091496
+    second: pumpkin_lit_2__x1_talk_png_1354836530_24
+  - first:
+      213: -372744698894363611
+    second: pumpkin_lit_2__x1_talk_png_1354836530_25
+  - first:
+      213: -5203782984221711119
+    second: pumpkin_lit_2__x1_talk_png_1354836530_26
+  - first:
+      213: -8001549241030610012
+    second: pumpkin_lit_2__x1_talk_png_1354836530_27
+  - first:
+      213: -8612889380921330680
+    second: pumpkin_lit_2__x1_talk_png_1354836530_28
+  - first:
+      213: 8586586787560113181
+    second: pumpkin_lit_2__x1_talk_png_1354836530_29
+  - first:
+      213: 8292116357216315159
+    second: pumpkin_lit_2__x1_talk_png_1354836530_30
+  - first:
+      213: 6996450932942150071
+    second: pumpkin_lit_2__x1_talk_png_1354836530_31
+  - first:
+      213: -3088412524074249270
+    second: pumpkin_lit_2__x1_talk_png_1354836530_32
+  - first:
+      213: 4586945942228913777
+    second: pumpkin_lit_2__x1_talk_png_1354836530_33
+  - first:
+      213: -2024874699230301818
+    second: pumpkin_lit_2__x1_talk_png_1354836530_34
+  - first:
+      213: -2729009890572883498
+    second: pumpkin_lit_2__x1_talk_png_1354836530_35
+  - first:
+      213: -1656471479434879464
+    second: pumpkin_lit_2__x1_talk_png_1354836530_36
+  - first:
+      213: 5347701724001157553
+    second: pumpkin_lit_2__x1_talk_png_1354836530_37
+  - first:
+      213: 6125209200747688684
+    second: pumpkin_lit_2__x1_talk_png_1354836530_38
+  - first:
+      213: -2380278893607425248
+    second: pumpkin_lit_2__x1_talk_png_1354836530_39
+  - first:
+      213: -4150387630878319407
+    second: pumpkin_lit_2__x1_talk_png_1354836530_40
+  - first:
+      213: 7821371621422452445
+    second: pumpkin_lit_2__x1_talk_png_1354836530_41
+  - first:
+      213: 2401349236776936724
+    second: pumpkin_lit_2__x1_talk_png_1354836530_42
+  - first:
+      213: -3436645724264295740
+    second: pumpkin_lit_2__x1_talk_png_1354836530_43
+  - first:
+      213: -8104010293710508150
+    second: pumpkin_lit_2__x1_talk_png_1354836530_44
+  - first:
+      213: -9186937949212103098
+    second: pumpkin_lit_2__x1_talk_png_1354836530_45
+  - first:
+      213: -7538246108436288090
+    second: pumpkin_lit_2__x1_talk_png_1354836530_46
+  - first:
+      213: 1656453235538977950
+    second: pumpkin_lit_2__x1_talk_png_1354836530_47
+  - first:
+      213: -3778344334732063370
+    second: pumpkin_lit_2__x1_talk_png_1354836530_48
+  - first:
+      213: -8171820924036911105
+    second: pumpkin_lit_2__x1_talk_png_1354836530_49
+  - first:
+      213: -7108630509498840539
+    second: pumpkin_lit_2__x1_talk_png_1354836530_50
+  - first:
+      213: -9115000192960966214
+    second: pumpkin_lit_2__x1_talk_png_1354836530_51
+  - first:
+      213: 6259347778879563037
+    second: pumpkin_lit_2__x1_talk_png_1354836530_52
+  - first:
+      213: -7326747653966073545
+    second: pumpkin_lit_2__x1_talk_png_1354836530_53
+  - first:
+      213: -8813832596773264219
+    second: pumpkin_lit_2__x1_talk_png_1354836530_54
+  - first:
+      213: -3643427272848193950
+    second: pumpkin_lit_2__x1_talk_png_1354836530_55
+  - first:
+      213: 1834743032775724592
+    second: pumpkin_lit_2__x1_talk_png_1354836530_56
+  - first:
+      213: -1257985568782895837
+    second: pumpkin_lit_2__x1_talk_png_1354836530_57
+  - first:
+      213: -496723098353236431
+    second: pumpkin_lit_2__x1_talk_png_1354836530_58
+  - first:
+      213: -4944125132124289924
+    second: pumpkin_lit_2__x1_talk_png_1354836530_59
+  - first:
+      213: -2355823572534387882
+    second: pumpkin_lit_2__x1_talk_png_1354836530_60
+  - first:
+      213: -4734700547638998234
+    second: pumpkin_lit_2__x1_talk_png_1354836530_61
+  - first:
+      213: 5094002415554560375
+    second: pumpkin_lit_2__x1_talk_png_1354836530_62
+  - first:
+      213: 2579812496162204840
+    second: pumpkin_lit_2__x1_talk_png_1354836530_63
+  - first:
+      213: 9144422116251825238
+    second: pumpkin_lit_2__x1_talk_png_1354836530_64
+  - first:
+      213: 6869178821766177596
+    second: pumpkin_lit_2__x1_talk_png_1354836530_65
+  - first:
+      213: 6516412434771385106
+    second: pumpkin_lit_2__x1_talk_png_1354836530_66
+  - first:
+      213: 1147234860433625056
+    second: pumpkin_lit_2__x1_talk_png_1354836530_67
+  - first:
+      213: -2938149070840134956
+    second: pumpkin_lit_2__x1_talk_png_1354836530_68
+  - first:
+      213: 972766615009058324
+    second: pumpkin_lit_2__x1_talk_png_1354836530_69
+  - first:
+      213: -873686706000087883
+    second: pumpkin_lit_2__x1_talk_png_1354836530_70
+  - first:
+      213: -2257852163792561214
+    second: pumpkin_lit_2__x1_talk_png_1354836530_71
+  - first:
+      213: -4377788860113546889
+    second: pumpkin_lit_2__x1_talk_png_1354836530_72
+  - first:
+      213: 6606468876916196137
+    second: pumpkin_lit_2__x1_talk_png_1354836530_73
+  - first:
+      213: -6473282175520283683
+    second: pumpkin_lit_2__x1_talk_png_1354836530_74
+  - first:
+      213: 3558742965840454211
+    second: pumpkin_lit_2__x1_talk_png_1354836530_75
+  - first:
+      213: 8385689334570752820
+    second: pumpkin_lit_2__x1_talk_png_1354836530_76
+  - first:
+      213: 8028189432544337841
+    second: pumpkin_lit_2__x1_talk_png_1354836530_77
+  - first:
+      213: 5989046136699332183
+    second: pumpkin_lit_2__x1_talk_png_1354836530_78
+  - first:
+      213: -6765519579655725485
+    second: pumpkin_lit_2__x1_talk_png_1354836530_79
+  - first:
+      213: -6177564191260014223
+    second: pumpkin_lit_2__x1_talk_png_1354836530_80
+  - first:
+      213: 8446106292464062965
+    second: pumpkin_lit_2__x1_talk_png_1354836530_81
+  - first:
+      213: -6009514570489670521
+    second: pumpkin_lit_2__x1_talk_png_1354836530_82
+  - first:
+      213: -8628178860504304675
+    second: pumpkin_lit_2__x1_talk_png_1354836530_83
+  - first:
+      213: 8051723734023921136
+    second: pumpkin_lit_2__x1_talk_png_1354836530_84
+  - first:
+      213: -1379178120946418781
+    second: pumpkin_lit_2__x1_talk_png_1354836530_85
+  - first:
+      213: 6435052796069607169
+    second: pumpkin_lit_2__x1_talk_png_1354836530_86
+  - first:
+      213: 7916749988792650230
+    second: pumpkin_lit_2__x1_talk_png_1354836530_87
+  - first:
+      213: 503425657356057297
+    second: pumpkin_lit_2__x1_talk_png_1354836530_88
+  - first:
+      213: 1329693723247375108
+    second: pumpkin_lit_2__x1_talk_png_1354836530_89
+  - first:
+      213: 5794082287223293310
+    second: pumpkin_lit_2__x1_talk_png_1354836530_90
+  - first:
+      213: -5773157832394843179
+    second: pumpkin_lit_2__x1_talk_png_1354836530_91
+  - first:
+      213: 8160461859276303151
+    second: pumpkin_lit_2__x1_talk_png_1354836530_92
+  - first:
+      213: 1372316102474035516
+    second: pumpkin_lit_2__x1_talk_png_1354836530_93
+  - first:
+      213: 6011951881654588530
+    second: pumpkin_lit_2__x1_talk_png_1354836530_94
+  - first:
+      213: 2258254659762601551
+    second: pumpkin_lit_2__x1_talk_png_1354836530_95
+  - first:
+      213: 1216349635117697922
+    second: pumpkin_lit_2__x1_talk_png_1354836530_96
+  - first:
+      213: -8487464106471363561
+    second: pumpkin_lit_2__x1_talk_png_1354836530_97
+  - first:
+      213: 1703318778672253584
+    second: pumpkin_lit_2__x1_talk_png_1354836530_98
+  - first:
+      213: -4200432382502604999
+    second: pumpkin_lit_2__x1_talk_png_1354836530_99
+  - first:
+      213: 5326566824724278296
+    second: pumpkin_lit_2__x1_talk_png_1354836530_100
+  - first:
+      213: 6789738205705053892
+    second: pumpkin_lit_2__x1_talk_png_1354836530_101
+  - first:
+      213: 7803374455203281420
+    second: pumpkin_lit_2__x1_talk_png_1354836530_102
+  - first:
+      213: -7064844372623221717
+    second: pumpkin_lit_2__x1_talk_png_1354836530_103
+  - first:
+      213: -5673349345136034809
+    second: pumpkin_lit_2__x1_talk_png_1354836530_104
+  - first:
+      213: -4526178085264120295
+    second: pumpkin_lit_2__x1_talk_png_1354836530_105
+  - first:
+      213: 5644535356541291031
+    second: pumpkin_lit_2__x1_talk_png_1354836530_106
+  - first:
+      213: 2344771389360682150
+    second: pumpkin_lit_2__x1_talk_png_1354836530_107
+  - first:
+      213: -2690614725116203629
+    second: pumpkin_lit_2__x1_talk_png_1354836530_108
+  - first:
+      213: -7988984596964629662
+    second: pumpkin_lit_2__x1_talk_png_1354836530_109
+  - first:
+      213: 6568853438117362565
+    second: pumpkin_lit_2__x1_talk_png_1354836530_110
+  - first:
+      213: 2233514066746711963
+    second: pumpkin_lit_2__x1_talk_png_1354836530_111
+  - first:
+      213: 2199087590796094172
+    second: pumpkin_lit_2__x1_talk_png_1354836530_112
+  - first:
+      213: -7397616803264608377
+    second: pumpkin_lit_2__x1_talk_png_1354836530_113
+  - first:
+      213: -8513244720428981015
+    second: pumpkin_lit_2__x1_talk_png_1354836530_114
+  - first:
+      213: -6611730050948221097
+    second: pumpkin_lit_2__x1_talk_png_1354836530_115
+  - first:
+      213: 827992117843874889
+    second: pumpkin_lit_2__x1_talk_png_1354836530_116
+  - first:
+      213: 6394225347263154441
+    second: pumpkin_lit_2__x1_talk_png_1354836530_117
+  - first:
+      213: 7017554943354960997
+    second: pumpkin_lit_2__x1_talk_png_1354836530_118
+  - first:
+      213: -6699854065202550640
+    second: pumpkin_lit_2__x1_talk_png_1354836530_119
+  - first:
+      213: 4350892540357129634
+    second: pumpkin_lit_2__x1_talk_png_1354836530_120
+  - first:
+      213: 1777810642578102675
+    second: pumpkin_lit_2__x1_talk_png_1354836530_121
+  - first:
+      213: -1533888445948744993
+    second: pumpkin_lit_2__x1_talk_png_1354836530_122
+  - first:
+      213: 680824167757089378
+    second: pumpkin_lit_2__x1_talk_png_1354836530_123
+  - first:
+      213: -8188322690973385796
+    second: pumpkin_lit_2__x1_talk_png_1354836530_124
+  - first:
+      213: 7325671414084967127
+    second: pumpkin_lit_2__x1_talk_png_1354836530_125
+  - first:
+      213: -138446048476499708
+    second: pumpkin_lit_2__x1_talk_png_1354836530_126
+  - first:
+      213: 7903979626068523440
+    second: pumpkin_lit_2__x1_talk_png_1354836530_127
+  - first:
+      213: 3554128415584982181
+    second: pumpkin_lit_2__x1_talk_png_1354836530_128
+  - first:
+      213: -737919081429894122
+    second: pumpkin_lit_2__x1_talk_png_1354836530_129
+  - first:
+      213: 7018856340394919142
+    second: pumpkin_lit_2__x1_talk_png_1354836530_130
+  - first:
+      213: -211487526903973998
+    second: pumpkin_lit_2__x1_talk_png_1354836530_131
+  - first:
+      213: 8923790914996719508
+    second: pumpkin_lit_2__x1_talk_png_1354836530_132
+  - first:
+      213: 2249578062372884544
+    second: pumpkin_lit_2__x1_talk_png_1354836530_133
+  - first:
+      213: -3936774267423608424
+    second: pumpkin_lit_2__x1_talk_png_1354836530_134
+  - first:
+      213: -3686348463508740050
+    second: pumpkin_lit_2__x1_talk_png_1354836530_135
+  - first:
+      213: 3782887554013142943
+    second: pumpkin_lit_2__x1_talk_png_1354836530_136
+  - first:
+      213: -3991718731124373875
+    second: pumpkin_lit_2__x1_talk_png_1354836530_137
+  - first:
+      213: -8855335294619758976
+    second: pumpkin_lit_2__x1_talk_png_1354836530_138
+  - first:
+      213: -400252614960743028
+    second: pumpkin_lit_2__x1_talk_png_1354836530_139
+  - first:
+      213: 8552676950479674767
+    second: pumpkin_lit_2__x1_talk_png_1354836530_140
+  - first:
+      213: -9033190190222446929
+    second: pumpkin_lit_2__x1_talk_png_1354836530_141
+  - first:
+      213: 6582271022789018100
+    second: pumpkin_lit_2__x1_talk_png_1354836530_142
+  - first:
+      213: -4037953593280307446
+    second: pumpkin_lit_2__x1_talk_png_1354836530_143
+  - first:
+      213: 1171319775823833002
+    second: pumpkin_lit_2__x1_talk_png_1354836530_144
+  - first:
+      213: -4082076051464568387
+    second: pumpkin_lit_2__x1_talk_png_1354836530_145
+  - first:
+      213: -4962955762570170129
+    second: pumpkin_lit_2__x1_talk_png_1354836530_146
+  - first:
+      213: -1769213684557713390
+    second: pumpkin_lit_2__x1_talk_png_1354836530_147
+  - first:
+      213: 8403983385654311644
+    second: pumpkin_lit_2__x1_talk_png_1354836530_148
+  - first:
+      213: -4609910768653436364
+    second: pumpkin_lit_2__x1_talk_png_1354836530_149
+  - first:
+      213: -5939424638255901857
+    second: pumpkin_lit_2__x1_talk_png_1354836530_150
+  - first:
+      213: 6278679654467082212
+    second: pumpkin_lit_2__x1_talk_png_1354836530_151
+  - first:
+      213: 2694407429035677028
+    second: pumpkin_lit_2__x1_talk_png_1354836530_152
+  - first:
+      213: -7027564886988629564
+    second: pumpkin_lit_2__x1_talk_png_1354836530_153
+  - first:
+      213: -1704200120369976062
+    second: pumpkin_lit_2__x1_talk_png_1354836530_154
+  - first:
+      213: 2796744154357687329
+    second: pumpkin_lit_2__x1_talk_png_1354836530_155
+  - first:
+      213: 2035842207552772294
+    second: pumpkin_lit_2__x1_talk_png_1354836530_156
+  - first:
+      213: -7539595345520243886
+    second: pumpkin_lit_2__x1_talk_png_1354836530_157
+  - first:
+      213: -1338975205002614239
+    second: pumpkin_lit_2__x1_talk_png_1354836530_158
+  - first:
+      213: 5337292730480980719
+    second: pumpkin_lit_2__x1_talk_png_1354836530_159
+  - first:
+      213: -7021570631743376452
+    second: pumpkin_lit_2__x1_talk_png_1354836530_160
+  - first:
+      213: -4836663383003333377
+    second: pumpkin_lit_2__x1_talk_png_1354836530_161
+  - first:
+      213: 381241506046718847
+    second: pumpkin_lit_2__x1_talk_png_1354836530_162
+  - first:
+      213: -4008380502042216703
+    second: pumpkin_lit_2__x1_talk_png_1354836530_163
+  - first:
+      213: 5635524535778403011
+    second: pumpkin_lit_2__x1_talk_png_1354836530_164
+  - first:
+      213: -2682766793432016468
+    second: pumpkin_lit_2__x1_talk_png_1354836530_165
+  - first:
+      213: 7317042045374809490
+    second: pumpkin_lit_2__x1_talk_png_1354836530_166
+  - first:
+      213: -5141585317291745922
+    second: pumpkin_lit_2__x1_talk_png_1354836530_167
+  - first:
+      213: 5445424787988680656
+    second: pumpkin_lit_2__x1_talk_png_1354836530_168
+  - first:
+      213: -5173599965722508135
+    second: pumpkin_lit_2__x1_talk_png_1354836530_169
+  - first:
+      213: -2134932565883425307
+    second: pumpkin_lit_2__x1_talk_png_1354836530_170
+  - first:
+      213: 488206930017534572
+    second: pumpkin_lit_2__x1_talk_png_1354836530_171
+  - first:
+      213: 5219461028030382312
+    second: pumpkin_lit_2__x1_talk_png_1354836530_172
+  - first:
+      213: -3456791583652283470
+    second: pumpkin_lit_2__x1_talk_png_1354836530_173
+  - first:
+      213: 3118557043639677367
+    second: pumpkin_lit_2__x1_talk_png_1354836530_174
+  - first:
+      213: -2625890214124419333
+    second: pumpkin_lit_2__x1_talk_png_1354836530_175
+  - first:
+      213: 1126247100252933349
+    second: pumpkin_lit_2__x1_talk_png_1354836530_176
+  - first:
+      213: -2745905709093220373
+    second: pumpkin_lit_2__x1_talk_png_1354836530_177
+  - first:
+      213: 4505351051191487819
+    second: pumpkin_lit_2__x1_talk_png_1354836530_178
+  - first:
+      213: -7888020150755101446
+    second: pumpkin_lit_2__x1_talk_png_1354836530_179
+  - first:
+      213: 7533862514101405002
+    second: pumpkin_lit_2__x1_talk_png_1354836530_180
+  - first:
+      213: -1736129311720032300
+    second: pumpkin_lit_2__x1_talk_png_1354836530_181
+  - first:
+      213: 589429081016823950
+    second: pumpkin_lit_2__x1_talk_png_1354836530_182
+  - first:
+      213: -4209500964215282416
+    second: pumpkin_lit_2__x1_talk_png_1354836530_183
+  - first:
+      213: 1797933438899124868
+    second: pumpkin_lit_2__x1_talk_png_1354836530_184
+  - first:
+      213: -3450888817805346226
+    second: pumpkin_lit_2__x1_talk_png_1354836530_185
+  - first:
+      213: 7022862850503243104
+    second: pumpkin_lit_2__x1_talk_png_1354836530_186
+  - first:
+      213: 3932043378982810721
+    second: pumpkin_lit_2__x1_talk_png_1354836530_187
+  - first:
+      213: 2478636191574248830
+    second: pumpkin_lit_2__x1_talk_png_1354836530_188
+  - first:
+      213: 1083255043248045211
+    second: pumpkin_lit_2__x1_talk_png_1354836530_189
+  - first:
+      213: -3652963724790535998
+    second: pumpkin_lit_2__x1_talk_png_1354836530_190
+  - first:
+      213: 986213688893923080
+    second: pumpkin_lit_2__x1_talk_png_1354836530_191
+  - first:
+      213: 981060528926055661
+    second: pumpkin_lit_2__x1_talk_png_1354836530_192
+  - first:
+      213: -7121270528835916892
+    second: pumpkin_lit_2__x1_talk_png_1354836530_193
+  - first:
+      213: 4176909219382475480
+    second: pumpkin_lit_2__x1_talk_png_1354836530_194
+  - first:
+      213: 6218958035193267059
+    second: pumpkin_lit_2__x1_talk_png_1354836530_195
+  - first:
+      213: 1221648714398594525
+    second: pumpkin_lit_2__x1_talk_png_1354836530_196
+  - first:
+      213: -8193858030958017677
+    second: pumpkin_lit_2__x1_talk_png_1354836530_197
+  - first:
+      213: 8158588001750867604
+    second: pumpkin_lit_2__x1_talk_png_1354836530_198
+  - first:
+      213: 1098787665938461925
+    second: pumpkin_lit_2__x1_talk_png_1354836530_199
+  - first:
+      213: -4838005474570606501
+    second: pumpkin_lit_2__x1_talk_png_1354836530_200
+  - first:
+      213: 9075068442926476863
+    second: pumpkin_lit_2__x1_talk_png_1354836530_201
+  - first:
+      213: 948442057125651409
+    second: pumpkin_lit_2__x1_talk_png_1354836530_202
+  - first:
+      213: 2356551327658246468
+    second: pumpkin_lit_2__x1_talk_png_1354836530_203
+  - first:
+      213: -4854410296158173107
+    second: pumpkin_lit_2__x1_talk_png_1354836530_204
+  - first:
+      213: 229243430846001505
+    second: pumpkin_lit_2__x1_talk_png_1354836530_205
+  - first:
+      213: 3434273847369028603
+    second: pumpkin_lit_2__x1_talk_png_1354836530_206
+  - first:
+      213: 7195239824457994631
+    second: pumpkin_lit_2__x1_talk_png_1354836530_207
+  - first:
+      213: 3417475689307999945
+    second: pumpkin_lit_2__x1_talk_png_1354836530_208
+  - first:
+      213: -5463484314327236173
+    second: pumpkin_lit_2__x1_talk_png_1354836530_209
+  - first:
+      213: 618728739980855095
+    second: pumpkin_lit_2__x1_talk_png_1354836530_210
+  - first:
+      213: 7469343470645868994
+    second: pumpkin_lit_2__x1_talk_png_1354836530_211
+  - first:
+      213: 3384946117334520479
+    second: pumpkin_lit_2__x1_talk_png_1354836530_212
+  - first:
+      213: -3554048488215179560
+    second: pumpkin_lit_2__x1_talk_png_1354836530_213
+  - first:
+      213: -3142604557736376063
+    second: pumpkin_lit_2__x1_talk_png_1354836530_214
+  - first:
+      213: -4632453234557488620
+    second: pumpkin_lit_2__x1_talk_png_1354836530_215
+  - first:
+      213: 9161330788986348274
+    second: pumpkin_lit_2__x1_talk_png_1354836530_216
+  - first:
+      213: 953353390506551345
+    second: pumpkin_lit_2__x1_talk_png_1354836530_217
+  - first:
+      213: -393866104393649700
+    second: pumpkin_lit_2__x1_talk_png_1354836530_218
+  - first:
+      213: 6881932098077054056
+    second: pumpkin_lit_2__x1_talk_png_1354836530_219
+  - first:
+      213: -6668582780077668022
+    second: pumpkin_lit_2__x1_talk_png_1354836530_220
+  - first:
+      213: 1128524075999079345
+    second: pumpkin_lit_2__x1_talk_png_1354836530_221
+  - first:
+      213: 226039372038814702
+    second: pumpkin_lit_2__x1_talk_png_1354836530_222
+  - first:
+      213: -8212876057987750303
+    second: pumpkin_lit_2__x1_talk_png_1354836530_223
+  - first:
+      213: -8328795693998997877
+    second: pumpkin_lit_2__x1_talk_png_1354836530_224
+  - first:
+      213: -4867717725707388926
+    second: pumpkin_lit_2__x1_talk_png_1354836530_225
+  - first:
+      213: -2300492843561826767
+    second: pumpkin_lit_2__x1_talk_png_1354836530_226
+  - first:
+      213: -51372404046403453
+    second: pumpkin_lit_2__x1_talk_png_1354836530_227
+  - first:
+      213: -6249564011363273761
+    second: pumpkin_lit_2__x1_talk_png_1354836530_228
+  - first:
+      213: -6396563121754897391
+    second: pumpkin_lit_2__x1_talk_png_1354836530_229
+  - first:
+      213: 8071343180025564012
+    second: pumpkin_lit_2__x1_talk_png_1354836530_230
+  - first:
+      213: -1023674601053669198
+    second: pumpkin_lit_2__x1_talk_png_1354836530_231
+  - first:
+      213: 3170793648060124955
+    second: pumpkin_lit_2__x1_talk_png_1354836530_232
+  - first:
+      213: -2571378051138003816
+    second: pumpkin_lit_2__x1_talk_png_1354836530_233
+  - first:
+      213: -6208816256316504515
+    second: pumpkin_lit_2__x1_talk_png_1354836530_234
+  - first:
+      213: 7250361732396995568
+    second: pumpkin_lit_2__x1_talk_png_1354836530_235
+  - first:
+      213: 2822221290903730388
+    second: pumpkin_lit_2__x1_talk_png_1354836530_236
+  - first:
+      213: -7654933830617961517
+    second: pumpkin_lit_2__x1_talk_png_1354836530_237
+  - first:
+      213: 3269730163367266159
+    second: pumpkin_lit_2__x1_talk_png_1354836530_238
+  - first:
+      213: -7873453792619321120
+    second: pumpkin_lit_2__x1_talk_png_1354836530_239
+  - first:
+      213: 3417615511485073449
+    second: pumpkin_lit_2__x1_talk_png_1354836530_240
+  - first:
+      213: 3679683986924756402
+    second: pumpkin_lit_2__x1_talk_png_1354836530_241
+  - first:
+      213: -6577188135343972078
+    second: pumpkin_lit_2__x1_talk_png_1354836530_242
+  - first:
+      213: 3753984187294850588
+    second: pumpkin_lit_2__x1_talk_png_1354836530_243
+  - first:
+      213: -2996097322110579318
+    second: pumpkin_lit_2__x1_talk_png_1354836530_244
+  - first:
+      213: 6016505275306900654
+    second: pumpkin_lit_2__x1_talk_png_1354836530_245
+  - first:
+      213: 7765592539761828644
+    second: pumpkin_lit_2__x1_talk_png_1354836530_246
+  - first:
+      213: -5367560536479469878
+    second: pumpkin_lit_2__x1_talk_png_1354836530_247
+  - first:
+      213: 2656499261347183011
+    second: pumpkin_lit_2__x1_talk_png_1354836530_248
+  - first:
+      213: 5612854729162336149
+    second: pumpkin_lit_2__x1_talk_png_1354836530_249
+  - first:
+      213: 6910091406093826962
+    second: pumpkin_lit_2__x1_talk_png_1354836530_250
+  - first:
+      213: 2014358326590859607
+    second: pumpkin_lit_2__x1_talk_png_1354836530_251
+  - first:
+      213: -3900809160785887388
+    second: pumpkin_lit_2__x1_talk_png_1354836530_252
+  - first:
+      213: 7129319482442429006
+    second: pumpkin_lit_2__x1_talk_png_1354836530_253
+  - first:
+      213: 3400135254488008635
+    second: pumpkin_lit_2__x1_talk_png_1354836530_254
+  - first:
+      213: -1774861227159995622
+    second: pumpkin_lit_2__x1_talk_png_1354836530_255
+  - first:
+      213: -7956060427715606764
+    second: pumpkin_lit_2__x1_talk_png_1354836530_256
+  - first:
+      213: -493806355038477210
+    second: pumpkin_lit_2__x1_talk_png_1354836530_257
+  - first:
+      213: -9170119375599973784
+    second: pumpkin_lit_2__x1_talk_png_1354836530_258
+  - first:
+      213: 9115685150233259734
+    second: pumpkin_lit_2__x1_talk_png_1354836530_259
+  - first:
+      213: 5361701682888753423
+    second: pumpkin_lit_2__x1_talk_png_1354836530_260
+  - first:
+      213: 6528209214662957680
+    second: pumpkin_lit_2__x1_talk_png_1354836530_261
+  - first:
+      213: -2202726626196521762
+    second: pumpkin_lit_2__x1_talk_png_1354836530_262
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdf282215ba66660800000000000000
+      internalID: 7378773404452847089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 141
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8739858ba5b6fe250800000000000000
+      internalID: 5976113267927978872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 141
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317622651d5b7d190800000000000000
+      internalID: -7937675907519322349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 141
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff0b9c8394d429f0800000000000000
+      internalID: -494036328919658505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 141
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e9ccc816614e660800000000000000
+      internalID: 7414075494788537974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 141
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327d6ba5e76594e40800000000000000
+      internalID: 5641135108946056995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 141
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bdad29a2c13a040800000000000000
+      internalID: 4657597408809245490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 141
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5733726037eb8ece0800000000000000
+      internalID: -1375640284927937675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 141
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03282f0b3ed65de40800000000000000
+      internalID: 5680567329691435568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 141
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dfb08f20db7f3f0800000000000000
+      internalID: -867016582796411635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 141
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95577985d6c2cda0800000000000000
+      internalID: -5925955539229518433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 141
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed053886a4735c60800000000000000
+      internalID: 7805710837761773030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 141
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3183508fa9a5980800000000000000
+      internalID: -8549350552579337245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_13
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 141
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b64f3063acda9ed0800000000000000
+      internalID: -2406368456623569226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 141
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180f2f386b7675160800000000000000
+      internalID: 7014188978248282241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 141
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a698e1f48092dc0800000000000000
+      internalID: -3663387685981427107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_16
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 141
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa51c0935cfbccd0800000000000000
+      internalID: -2536656529252066566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_17
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 141
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f4ded7ba0a65a60800000000000000
+      internalID: 7662488474430033666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_18
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 141
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b67a21ae99a7c70800000000000000
+      internalID: 8969650838476122982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847167fc8843114c0800000000000000
+      internalID: -4318612805470775480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_20
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 94
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c09d5b00d27fc9c0800000000000000
+      internalID: -3904776114037485371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_21
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 94
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f33a3a45d72a040800000000000000
+      internalID: 4657422767130623749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_22
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 94
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38775148aa2292f0800000000000000
+      internalID: -967664067792111555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_23
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 94
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b5b28f9f3490db0800000000000000
+      internalID: -4825250784861267193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_24
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 94
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89830b4aa36582fd0800000000000000
+      internalID: -2366546794312091496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_25
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 94
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524dd76dbaeb3daf0800000000000000
+      internalID: -372744698894363611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_26
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 94
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f42e3952f278c7b0800000000000000
+      internalID: -5203782984221711119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_27
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 94
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3f29bfb59c4f090800000000000000
+      internalID: -8001549241030610012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_28
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 94
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8043378bdbed87880800000000000000
+      internalID: -8612889380921330680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_29
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 94
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d144599803fa92770800000000000000
+      internalID: 8586586787560113181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_30
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 94
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717a514b4e3831370800000000000000
+      internalID: 8292116357216315159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_31
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 94
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b997720e03681160800000000000000
+      internalID: 6996450932942150071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_32
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 94
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3dfa62c21c325d0800000000000000
+      internalID: -3088412524074249270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_33
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 94
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e4972280b18af30800000000000000
+      internalID: 4586945942228913777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_34
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 94
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681b3b5703336e3e0800000000000000
+      internalID: -2024874699230301818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_35
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 94
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d920e3a6fb902ad0800000000000000
+      internalID: -2729009890572883498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_36
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 94
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ed7bf37f70309e0800000000000000
+      internalID: -1656471479434879464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_37
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 94
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b145d7726ad63a40800000000000000
+      internalID: 5347701724001157553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce23589b05d110550800000000000000
+      internalID: 6125209200747688684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_39
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 47
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b6b2025fc87fed0800000000000000
+      internalID: -2380278893607425248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_40
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 47
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc925d707cd666c0800000000000000
+      internalID: -4150387630878319407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_41
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 47
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddec43fdc081b8c60800000000000000
+      internalID: 7821371621422452445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_42
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 47
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415aebf686e435120800000000000000
+      internalID: 2401349236776936724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_43
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 47
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c29c520ce49e40d0800000000000000
+      internalID: -3436645724264295740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_44
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 47
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fa6432395c88f80800000000000000
+      internalID: -8104010293710508150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_45
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 47
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e28a31c90718080800000000000000
+      internalID: -9186937949212103098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_46
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 47
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad2f2d8a15c26790800000000000000
+      internalID: -7538246108436288090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_47
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 47
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94e8530177ecf610800000000000000
+      internalID: 1656453235538977950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_48
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 47
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d8f2998df909bc0800000000000000
+      internalID: -3778344334732063370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_49
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 47
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffecae6a2cd79e80800000000000000
+      internalID: -8171820924036911105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_50
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 47
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a41d9f632195d90800000000000000
+      internalID: -7108630509498840539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_51
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 47
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1d1fa2e93018180800000000000000
+      internalID: -9115000192960966214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_52
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 47
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d152fb534abadd650800000000000000
+      internalID: 6259347778879563037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_53
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 47
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731fc66d3d9225a90800000000000000
+      internalID: -7326747653966073545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_54
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 47
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4229f63f9fea580800000000000000
+      internalID: -8813832596773264219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_55
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 47
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266c9e4f232ff6dc0800000000000000
+      internalID: -3643427272848193950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_56
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 47
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e48b24111567910800000000000000
+      internalID: 1834743032775724592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325b0205accba8ee0800000000000000
+      internalID: -1257985568782895837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_58
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1368cea49f84b19f0800000000000000
+      internalID: -496723098353236431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_59
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7486ae2360f26bb0800000000000000
+      internalID: -4944125132124289924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_60
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b989541fe6e4fd0800000000000000
+      internalID: -2355823572534387882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_61
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b412cffe6fa4eb0800000000000000
+      internalID: -4734700547638998234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_62
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7718c10353881b640800000000000000
+      internalID: 5094002415554560375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_63
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acacdcfbc55dc320800000000000000
+      internalID: 2579812496162204840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_64
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6547a6b277387ee70800000000000000
+      internalID: 9144422116251825238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_65
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3362027eb9345f50800000000000000
+      internalID: 6869178821766177596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_66
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b9c708592fe6a50800000000000000
+      internalID: 6516412434771385106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_67
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef471af60ccbef00800000000000000
+      internalID: 1147234860433625056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_68
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d20e6facf89937d0800000000000000
+      internalID: -2938149070840134956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_69
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e59f81516ff7d00800000000000000
+      internalID: 972766615009058324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_70
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b432e3e19a00e3f0800000000000000
+      internalID: -873686706000087883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_71
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb1ccd6b6f7aa0e0800000000000000
+      internalID: -2257852163792561214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_72
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771154be938fe33c0800000000000000
+      internalID: -4377788860113546889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_lit_2__x1_talk_png_1354836530_73
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9238344e074eeab50800000000000000
+      internalID: 6606468876916196137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

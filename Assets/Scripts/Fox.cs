@@ -23,9 +23,7 @@ public class Fox : MonoBehaviour
     }
 
     private void OnTriggerEnter2D(Collider2D other)
-    {
-        Debug.Log("Fox detected collision trigger");
-        Debug.Log(other.gameObject);
+    {        
         TakeAction(other.gameObject);
     }
     private void TakeAction(GameObject Target)

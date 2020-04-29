@@ -876,7 +876,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1640711149}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.11, y: -0.01, z: 1}
+  m_LocalPosition: {x: 0.221, y: -0.01, z: 1}
   m_LocalScale: {x: 0.16454865, y: 1.9745836, z: 1.4809377}
   m_Children: []
   m_Father: {fileID: 240283119}
@@ -1192,7 +1192,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1958747157}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.222, y: -0.03, z: 1}
+  m_LocalPosition: {x: -0.116, y: -0.03, z: 1}
   m_LocalScale: {x: 0.18210001, y: 2.1852002, z: 1.6389}
   m_Children: []
   m_Father: {fileID: 240283119}
@@ -1340,6 +1340,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3640876361465724536, guid: c6ded38f983e6ae49927b6f36b1179b6,
+        type: 3}
+      propertyPath: isBehindHomeField
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3640876361465724539, guid: c6ded38f983e6ae49927b6f36b1179b6,
         type: 3}
@@ -1582,6 +1587,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1376903891193054706, guid: af7dd23ec8bbb67409d0b92a8a558c18,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 634
+      objectReference: {fileID: 0}
     - target: {fileID: 6749797453476824692, guid: af7dd23ec8bbb67409d0b92a8a558c18,
         type: 3}
       propertyPath: m_Color.a

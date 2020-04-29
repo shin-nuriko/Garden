@@ -29,7 +29,7 @@ public class LevelLoader : MonoBehaviour
     }
     public void LoadGameEnd()
     {
-        SceneManager.LoadScene(SceneManager.sceneCount - 1);//Expecting Game End Scene as last one
+        SceneManager.LoadScene("End Screen");
     }
 
     public void ExitGame()

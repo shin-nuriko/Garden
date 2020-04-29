@@ -443,7 +443,7 @@ SpriteRenderer:
   m_SortingOrder: 2
   m_Sprite: {fileID: -3727475372213954126, guid: 6a6001d2ff08f8048845bb0c25f2d35f,
     type: 3}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 1}
+  m_Color: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -953,7 +953,7 @@ SpriteRenderer:
   m_SortingOrder: 2
   m_Sprite: {fileID: 2236537395566010232, guid: 998d017e69f494549b37b0b3a9e676fa,
     type: 3}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 1}
+  m_Color: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -1155,7 +1155,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 2
   m_Sprite: {fileID: 21300000, guid: 20b6808fa8e320c499eea5aeb4adc9b1, type: 3}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 1}
+  m_Color: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -1239,7 +1239,7 @@ SpriteRenderer:
   m_SortingOrder: 2
   m_Sprite: {fileID: 7378773404452847089, guid: 6e031a46050cd37408e8cdd2db0de6ca,
     type: 3}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 1}
+  m_Color: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -1659,7 +1659,7 @@ PrefabInstance:
     - target: {fileID: 5247849534153510024, guid: 081ca3f005bfad140be297f77433919c,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7005645311007640680, guid: 081ca3f005bfad140be297f77433919c,
         type: 3}
@@ -1775,11 +1775,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Canvas Foreground
-      objectReference: {fileID: 0}
-    - target: {fileID: 7898340262384310070, guid: 081ca3f005bfad140be297f77433919c,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 081ca3f005bfad140be297f77433919c, type: 3}

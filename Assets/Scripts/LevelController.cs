@@ -6,26 +6,40 @@ public class LevelController : MonoBehaviour
 {
     GameTimer gameTimer;
     AttackerSpawner[] spawners;
+    GameOverText gameOver;
+    LevelComplete levelComplete;
+    PlayerHealth player;
     bool spawnStopped;
+    float displayPause = 1f;
 
     void Start()
     {
         gameTimer = FindObjectOfType<GameTimer>();
         spawners = FindObjectsOfType<AttackerSpawner>();
+        gameOver = FindObjectOfType<GameOverText>();
+        levelComplete = FindObjectOfType<LevelComplete>();
+        player = FindObjectOfType<PlayerHealth>();
         spawnStopped = false;
     }
 
     // Update is called once per frame
     void Update()
     {
+        if (player.IsPlayerAlive() == false)
+        {
+            StartCoroutine(GameOver());
+            return;
+        }
+
         int attackersLeft = CountAttackers();
         if (gameTimer.IsGameTimerFinished() && attackersLeft <= 0 )
         {
-            Debug.Log("Game timer is finished AND no more attackers left!");
+            StartCoroutine(LoadNextLevel());
+            return;
         }
+
         if (gameTimer.IsGameTimerFinished() && spawnStopped == false)
         {
-            Debug.Log("Game timer is finished!");
             StopAllAttackerSpawners();
         }
     }
@@ -42,12 +56,24 @@ public class LevelController : MonoBehaviour
 
     private void StopAllAttackerSpawners()
     {
-        Debug.Log("Stop all attacker spawners!");
         foreach (AttackerSpawner spawner in spawners)
         {
             spawner.StopSpawning();
         }
         spawnStopped = true;
+    }
+
+    IEnumerator GameOver()
+    {
+        gameOver.DisplayGameOver();
+        yield return new WaitForSeconds(displayPause);
+        FindObjectOfType<LevelLoader>().LoadGameEnd();
+    }
+    IEnumerator LoadNextLevel()
+    {
+        levelComplete.DisplayLevelComplete();
+        yield return new WaitForSeconds(displayPause);
+        FindObjectOfType<LevelLoader>().LoadNextScene();
     }
 
 }

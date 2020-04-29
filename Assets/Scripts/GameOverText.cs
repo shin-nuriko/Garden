@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 
-public class GameOver : MonoBehaviour
+public class GameOverText : MonoBehaviour
 {
     // Start is called before the first frame update
     GameObject gameOverText;

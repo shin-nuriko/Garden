@@ -7,8 +7,10 @@ public class PlayerHealth : MonoBehaviour
 {
     [SerializeField] int health = 100;
     Text healthText;
+    GameOver gameOver;
     void Start()
     {
+        gameOver = FindObjectOfType<GameOver>();
         healthText = GetComponent<Text>();
         UpdateDisplay();
     }
@@ -24,13 +26,16 @@ public class PlayerHealth : MonoBehaviour
             UpdateDisplay();
         }
         else
-        {           
+        {
+            health = 0;
+            UpdateDisplay();
             StartCoroutine(GameOver());
         }
     }
     IEnumerator GameOver()
     {
-        yield return new WaitForSeconds(1f);
+        gameOver.DisplayGameOver();
+        yield return new WaitForSeconds(1.5f);
         FindObjectOfType<LevelLoader>().LoadGameEnd();
     }
 }

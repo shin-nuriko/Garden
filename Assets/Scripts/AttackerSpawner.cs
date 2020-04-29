@@ -30,6 +30,7 @@ public class AttackerSpawner : MonoBehaviour
 
     private void SpawnAttacker()
     {
+        if (!spawn) return; //this will ensure spawn is stopped at this point of the coroutine
         attackerPrefab = attackersPrefab[UnityEngine.Random.Range(minIndex, maxIndex)];
         Attacker newAttacker = Instantiate(
             attackerPrefab,
@@ -39,4 +40,8 @@ public class AttackerSpawner : MonoBehaviour
         newAttacker.transform.parent = transform; //spawns as child of attackerspawner gameobject
     }
 
+    public void StopSpawning()
+    {
+        spawn = false;
+    }
 }

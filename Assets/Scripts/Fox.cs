@@ -19,7 +19,6 @@ public class Fox : MonoBehaviour
         attacker = GetComponent<Attacker>();
         attacker.SetMovementSpeed(walkAnimationSpeed);
         fox = gameObject.transform.GetChild(0).transform.gameObject;//all our animation is on the first child object
-        Debug.Log(fox);
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -33,7 +32,6 @@ public class Fox : MonoBehaviour
         //jump over stone
         if (Target.GetComponent<Stone>())
         {
-            Debug.Log("Fox vs Stone");
             StartCoroutine(Jump());
         }
         else

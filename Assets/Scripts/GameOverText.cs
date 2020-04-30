@@ -5,8 +5,11 @@ using TMPro;
 
 public class GameOverText : MonoBehaviour
 {
-    // Start is called before the first frame update
+    [SerializeField] AudioClip GameOverSFX;
+    [Range(0f, 1f)] [SerializeField] float onGameOverSFXVolume = 0.5f;
+
     GameObject gameOverText;
+    bool wasTriggeredOnce = false;
     void Start()
     {
         gameOverText = transform.GetChild(0).gameObject;
@@ -16,5 +19,19 @@ public class GameOverText : MonoBehaviour
     public void DisplayGameOver()
     {
         gameOverText.SetActive(true);
+        //make sure we only play sound once
+        if (!wasTriggeredOnce)
+        {
+            PlayGameOverSound();
+        }
+    }
+
+    private void PlayGameOverSound()
+    {
+        AudioSource.PlayClipAtPoint(
+                GameOverSFX,
+                Camera.main.transform.position,
+                onGameOverSFXVolume);
+        wasTriggeredOnce = true;
     }
 }

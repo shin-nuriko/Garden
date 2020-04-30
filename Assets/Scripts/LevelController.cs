@@ -6,11 +6,11 @@ public class LevelController : MonoBehaviour
 {
     GameTimer gameTimer;
     AttackerSpawner[] spawners;
-    GameOverText gameOver;
     LevelComplete levelComplete;
     PlayerHealth player;
+    GameOverText gameOver;
     bool spawnStopped;
-    float displayPause = 1f;
+    float displayPause = 7f;
 
     void Start()
     {
@@ -64,9 +64,10 @@ public class LevelController : MonoBehaviour
     }
 
     IEnumerator GameOver()
-    {
+    {       
         gameOver.DisplayGameOver();
         yield return new WaitForSeconds(displayPause);
+        Destroy(gameOver);
         FindObjectOfType<LevelLoader>().LoadGameEnd();
     }
     IEnumerator LoadNextLevel()

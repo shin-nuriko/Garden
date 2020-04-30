@@ -413,7 +413,7 @@ Transform:
   m_Children:
   - {fileID: 6336987829429544969}
   m_Father: {fileID: 7005645311007640681}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &3060822991177428096
 MonoBehaviour:
@@ -427,6 +427,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb1cc100dca75504e8710e2ab8233f57, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  GameOverSFX: {fileID: 8300000, guid: 71fd6fa26f822cf46b237ab05655c97a, type: 3}
+  onGameOverSFXVolume: 0.5
 --- !u!1 &5665125710456920826
 GameObject:
   m_ObjectHideFlags: 0
@@ -532,8 +534,8 @@ RectTransform:
   m_Children:
   - {fileID: 54507281066153399}
   - {fileID: 1623749878926873540}
-  - {fileID: 1510694693096978315}
   - {fileID: 933412214293550755}
+  - {fileID: 1510694693096978315}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -632,7 +634,7 @@ Transform:
   m_Children:
   - {fileID: 4317876558722984606}
   m_Father: {fileID: 7005645311007640681}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &3223443674736719607
 MonoBehaviour:
@@ -646,3 +648,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6c2ad28505023d49b7441dae37f58a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  LevelOkSFX: {fileID: 8300000, guid: 80e3b01a45f31d24dbc3b1fa3da3bb23, type: 3}
+  onLevelOkSFXVolume: 0.5

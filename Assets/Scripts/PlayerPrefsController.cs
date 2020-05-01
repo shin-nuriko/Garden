@@ -36,6 +36,11 @@ public class PlayerPrefsController : MonoBehaviour
             return DEFAULT_VOLUME;  
     }
 
+    public float GetDefaultVolume()
+    {
+        return DEFAULT_VOLUME;
+    }
+
     public void SetMasterDifficulty(float difficulty)
     {
         if (difficulty >= MIN_DIFFICULTY && difficulty <= MAX_DIFFICULTY)
@@ -55,5 +60,10 @@ public class PlayerPrefsController : MonoBehaviour
             return prefDifficulty;
         else
             return DEFAULT_DIFFICULTY;
+    }
+
+    public float GetDefaultDifficulty()
+    {
+        return DEFAULT_DIFFICULTY;
     }
 }

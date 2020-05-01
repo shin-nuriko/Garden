@@ -121,6 +121,18 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!114 &365394876 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3481796839447556491, guid: 29d76a9bb2696b44fb15e53db8890b40,
+    type: 3}
+  m_PrefabInstance: {fileID: 3481796840427295737}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6aba598a62bec794abdeffb32d750c8f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &514611104
 GameObject:
   m_ObjectHideFlags: 0
@@ -134,7 +146,7 @@ GameObject:
   - component: {fileID: 514611107}
   - component: {fileID: 514611106}
   m_Layer: 5
-  m_Name: Start Button
+  m_Name: Defaults Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -203,8 +215,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1326543140}
-        m_MethodName: LoadGameStart
+      - m_Target: {fileID: 365394876}
+        m_MethodName: ResetToDefaults
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -670,7 +682,7 @@ GameObject:
   - component: {fileID: 1008483181}
   - component: {fileID: 1008483180}
   m_Layer: 5
-  m_Name: Quit Button
+  m_Name: Back Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

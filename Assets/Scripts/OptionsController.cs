@@ -14,6 +14,18 @@ public class OptionsController : MonoBehaviour
         volumeOption = transform.Find("Volume/VolumeSlider").gameObject;
         difficultyOption = transform.Find("Difficulty/DifficultySlider").gameObject;
         playerPrefController = FindObjectOfType<PlayerPrefsController>();
+
+        //populate with saved player prefs
+        float volumePref = playerPrefController.GetMasterVolume();
+        if (volumeOption.GetComponent<Slider>().value != volumePref)
+        {
+            volumeOption.GetComponent<Slider>().value = volumePref;
+        }
+        float difficultyPref = playerPrefController.GetMasterDifficulty();
+        if (difficultyOption.GetComponent<Slider>().value != difficultyPref)
+        {
+            difficultyOption.GetComponent<Slider>().value = difficultyPref;
+        }
     }
 
    public void UpdateVolume()
@@ -25,5 +37,11 @@ public class OptionsController : MonoBehaviour
     {
         float difficulty = difficultyOption.GetComponent<Slider>().value;
         playerPrefController.SetMasterDifficulty(difficulty);
+    }
+
+    public void ResetToDefaults()
+    {
+        volumeOption.GetComponent<Slider>().value = playerPrefController.GetDefaultVolume();
+        difficultyOption.GetComponent<Slider>().value = playerPrefController.GetDefaultDifficulty();
     }
 }

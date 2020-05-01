@@ -131,7 +131,12 @@ PrefabInstance:
     - target: {fileID: -4851223389158988270, guid: 598d3221389616445afb32391d427cbf,
         type: 3}
       propertyPath: attackersPrefab.Array.size
-      value: 1
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -4851223389158988270, guid: 598d3221389616445afb32391d427cbf,
+        type: 3}
+      propertyPath: maxSpawnDelay
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 2481284793148207054, guid: 598d3221389616445afb32391d427cbf,
         type: 3}
@@ -360,7 +365,12 @@ PrefabInstance:
     - target: {fileID: -4851223389158988270, guid: 598d3221389616445afb32391d427cbf,
         type: 3}
       propertyPath: attackersPrefab.Array.size
-      value: 1
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -4851223389158988270, guid: 598d3221389616445afb32391d427cbf,
+        type: 3}
+      propertyPath: maxSpawnDelay
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 2481284793148207054, guid: 598d3221389616445afb32391d427cbf,
         type: 3}
@@ -1154,7 +1164,12 @@ PrefabInstance:
     - target: {fileID: -4851223389158988270, guid: 598d3221389616445afb32391d427cbf,
         type: 3}
       propertyPath: attackersPrefab.Array.size
-      value: 1
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -4851223389158988270, guid: 598d3221389616445afb32391d427cbf,
+        type: 3}
+      propertyPath: maxSpawnDelay
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 2481284793148207054, guid: 598d3221389616445afb32391d427cbf,
         type: 3}
@@ -1645,7 +1660,12 @@ PrefabInstance:
     - target: {fileID: -4851223389158988270, guid: 598d3221389616445afb32391d427cbf,
         type: 3}
       propertyPath: attackersPrefab.Array.size
-      value: 1
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -4851223389158988270, guid: 598d3221389616445afb32391d427cbf,
+        type: 3}
+      propertyPath: maxSpawnDelay
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 2481284793148207054, guid: 598d3221389616445afb32391d427cbf,
         type: 3}
@@ -2211,7 +2231,12 @@ PrefabInstance:
     - target: {fileID: -4851223389158988270, guid: 598d3221389616445afb32391d427cbf,
         type: 3}
       propertyPath: attackersPrefab.Array.size
-      value: 1
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -4851223389158988270, guid: 598d3221389616445afb32391d427cbf,
+        type: 3}
+      propertyPath: maxSpawnDelay
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 2481284793148207054, guid: 598d3221389616445afb32391d427cbf,
         type: 3}

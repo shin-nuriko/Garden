@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class GoldDisplay : MonoBehaviour
 {
-    [SerializeField] float gold = 100;
+    [SerializeField] int gold = 100;
     Text goldText;
     float gameDifficulty = 1f;
 
@@ -17,7 +17,7 @@ public class GoldDisplay : MonoBehaviour
         {
             gameDifficulty = FindObjectOfType<PlayerPrefsController>().GetMasterDifficulty();
             Debug.Log("Game Difficulty : " + gameDifficulty);
-            gold = gold / gameDifficulty;
+            gold = Mathf.RoundToInt(gold / gameDifficulty);
         }
         UpdateDisplay();
     }

@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class PlayerHealth : MonoBehaviour
 {
-    [SerializeField] float health = 100f;
+    [SerializeField] int health = 100;
     Text healthText;
     float gameDifficulty = 1f;
 
@@ -15,7 +15,7 @@ public class PlayerHealth : MonoBehaviour
         if ( FindObjectOfType<PlayerPrefsController>() )
         {
             gameDifficulty = FindObjectOfType<PlayerPrefsController>().GetMasterDifficulty();            
-            health = health / gameDifficulty;
+            health = Mathf.RoundToInt(health / gameDifficulty);
         }
         UpdateDisplay();
     }

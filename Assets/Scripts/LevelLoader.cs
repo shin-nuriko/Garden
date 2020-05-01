@@ -27,6 +27,10 @@ public class LevelLoader : MonoBehaviour
     {
         SceneManager.LoadScene("Start Screen");
     }
+    public void LoadOptions()
+    {
+        SceneManager.LoadScene("Options Screen");
+    }
     public void LoadGameEnd()
     {
         SceneManager.LoadScene("End Screen");

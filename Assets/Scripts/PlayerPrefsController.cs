@@ -7,7 +7,7 @@ public class PlayerPrefsController : MonoBehaviour
     const string VOLUME_KEY = "volume";
     const string DIFFICULTY_KEY = "difficulty";
 
-    const float MIN_VOLUME = 0f;
+    const float MIN_VOLUME = 0.1f;
     const float MAX_VOLUME = 1f;
     const float DEFAULT_VOLUME = 0.5f;
 
@@ -30,7 +30,7 @@ public class PlayerPrefsController : MonoBehaviour
     public float GetMasterVolume()
     {
         float prefVolume = PlayerPrefs.GetFloat(VOLUME_KEY);
-        if (prefVolume >= 0)
+        if (prefVolume > 0)
             return prefVolume;
         else
             return DEFAULT_VOLUME;  

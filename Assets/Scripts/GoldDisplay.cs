@@ -5,12 +5,20 @@ using UnityEngine.UI;
 
 public class GoldDisplay : MonoBehaviour
 {
-    [SerializeField] int gold = 100;
+    [SerializeField] float gold = 100;
     Text goldText;
+    float gameDifficulty = 1f;
+
     // Start is called before the first frame update
     void Start()
     {
         goldText = GetComponent<Text>();
+        if (FindObjectOfType<PlayerPrefsController>())
+        {
+            gameDifficulty = FindObjectOfType<PlayerPrefsController>().GetMasterDifficulty();
+            Debug.Log("Game Difficulty : " + gameDifficulty);
+            gold = gold / gameDifficulty;
+        }
         UpdateDisplay();
     }
 

@@ -30,7 +30,7 @@ public class PlayerPrefsController : MonoBehaviour
     public float GetMasterVolume()
     {
         float prefVolume = PlayerPrefs.GetFloat(VOLUME_KEY);
-        if (prefVolume > 0)
+        if (prefVolume >= 0)
             return prefVolume;
         else
             return DEFAULT_VOLUME;  
